@@ -20,7 +20,7 @@ level converter is needed between Arduino and MC33290.
 
 ## Hardware
 
-![image](images/hardware.JPG)
+![image](images/hardware.jpg)
 
 ## Driving Report
 In addition to the real time data on the OLED screen, a driving report will be
@@ -36,5 +36,5 @@ email. In Ifttt, a user can configure certain events to trigger different
 actions. In this case, a web request to a certain url by Arduino MKR1000
 triggers an email sending.
 
-![image](images/email.PNG)
+![image](images/email.png)
 
